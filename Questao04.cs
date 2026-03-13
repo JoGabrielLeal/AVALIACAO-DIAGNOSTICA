@@ -1,7 +1,7 @@
 using System;
 using System.Text;
 
-class Program
+class Questao04
 {
     static void Main()
     {
