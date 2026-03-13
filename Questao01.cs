@@ -11,7 +11,7 @@ class Questao01
         while (opcao != 5)
         {
             Console.Clear();
-            Console.WriteLine("------ MENU PRiNCIPAL ------");
+            Console.WriteLine("======= MENU PRiNCIPAL =======");
             Console.WriteLine("1 - Somar dois números");
             Console.WriteLine("2 - Subtrair dois números");
             Console.WriteLine("3 - Multiplicar dois números");
